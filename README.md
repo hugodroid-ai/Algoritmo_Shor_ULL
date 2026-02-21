@@ -40,11 +40,6 @@ El **Algoritmo de Shor**, publicado por Peter Shor en 1994, representa uno de lo
 
 La importancia del algoritmo radica en sus implicaciones para la seguridad de sistemas criptográficos como **RSA**, cuya seguridad se fundamenta en la dificultad computacional de factorizar números grandes (típicamente de 2048 bits o más).
 
-| Algoritmo | Complejidad | Tipo |
-|-----------|-------------|------|
-| Fuerza bruta | O(√N) | Clásico |
-| Criba del cuerpo de números | O(exp(n^(1/3))) | Clásico |
-| **Algoritmo de Shor** | **O(n³)** | **Cuántico** |
 
 ### 1.3 Objetivo del Trabajo
 
