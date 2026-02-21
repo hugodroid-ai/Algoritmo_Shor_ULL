@@ -1,4 +1,5 @@
 # Algoritmo de Shor: Implementación en Qiskit para N=15
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lfGnrUHiqc8XUsmZahFQjEVrckLr4kpD?usp=sharing)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Qiskit-2.x-blue?logo=qiskit" alt="Qiskit">
@@ -434,7 +435,7 @@ pip install qiskit qiskit-aer matplotlib numpy pandas
 ### 7.3 Ejecución en Google Colab
 
 1. Abrir [Google Colab](https://colab.research.google.com)
-2. Subir el notebook
+2. Subir el notebook(https://colab.research.google.com/drive/1lfGnrUHiqc8XUsmZahFQjEVrckLr4kpD?usp=sharing)
 3. Ejecutar todas las celdas
 
 ### 7.4 Ejecución Local
